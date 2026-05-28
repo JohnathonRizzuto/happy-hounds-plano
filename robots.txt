@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://happy-hounds-plano.vercel.app/sitemap.xml
